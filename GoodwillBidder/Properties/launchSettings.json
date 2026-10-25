@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GoodwillBidder": {
+      "commandName": "Project",
+      "commandLineArgs": "268355491 34",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
